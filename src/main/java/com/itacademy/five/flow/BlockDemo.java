@@ -21,7 +21,7 @@ public class BlockDemo {
         boolean happinessCondition = number <= 23;//false
         // if( izraz -> čija krajnja vrijednost mora biti true/false ili kako kažemo boolean tipa)
         if (happinessCondition) {
-            System.out.prin1tln("Sretni ste ....");
+            System.out.println("Sretni ste ....");
         } else {
             System.out.println("Niste baš srećni..");
         }
