@@ -10,7 +10,7 @@ public class BooleanDemo {
         if(condition) {
             System.out.println("Zadovoljio si..");
         } else{
-            System.out.println("Nisi zadovoljio ..");
+            System.out.println("Nisi zadovoljio .. ");
         }
 
 
