@@ -1,4 +1,4 @@
-package com.itacademy.seven.demo;
+package com.itacademy.seven.demo.demo;
 
 import java.util.Scanner;
 

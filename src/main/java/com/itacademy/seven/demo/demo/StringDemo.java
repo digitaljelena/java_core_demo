@@ -1,4 +1,4 @@
-package com.itacademy.seven.demo;
+package com.itacademy.seven.demo.demo;
 /**
  * Kada koristimo String-ove uvijek trebamo koristiti String literal ?
  *
