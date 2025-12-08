@@ -1,4 +1,4 @@
-package com.itacademy.eight.domaci;
+package com.itacademy.eight.domaci.domaci;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.itacademy.eight.domaci;
+package com.itacademy.eight.domaci.domaci;
 
 public class Zadatak11 {
     public static void main(String[] args) {
